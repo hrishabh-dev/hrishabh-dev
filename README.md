@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a student with a keen interest in **Data Scien
 ## 🚀 About Me
 - 🌱 **Learning:** Data Science, Machine Learning, and Generative AI.
 - 💡 **Interests:** Exploring AI models, analyzing data, and building innovative solutions.
-- 📚 **Focus Areas:** Machine Learning, Data Analysis, Exploratory Data Analysis (EDA), and foundational statistics for AI.
+- 📚 **Focus Areas:** Machine Learning, Data Analysis, Exploratory Data Analysis (EDA), foundational statistics for AI.  
+  ![Statistics](https://img.shields.io/badge/-Statistics-4A90E2?logo=data&logoColor=white)
 - 🔭 **Currently Working On:** Improving my skills in data science and deploying AI-powered applications.
 - ✨ **Strengths:** I am very good at **Exploratory Data Analysis (EDA)**, **Data Analysis**, and **Machine Learning**.
 
@@ -45,6 +46,9 @@ Welcome to my GitHub profile! I'm a student with a keen interest in **Data Scien
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+  ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
 
 ---
 
