@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a student with a keen interest in **Data Scien
 
 ## 📫 Get in Touch
 
-- **Email:** [hrishabh@example.com](mailto:hrishabh@example.com)
+- **Email:** [hrishabh@gmail.com](mailto:hrishabh@gmail.com)
 - **LinkedIn:** [Hrishabh Kumar](https://www.linkedin.com/in/hrishabh-kumar-6a17a6302/)
 
 ---
