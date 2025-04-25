@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm a student with a keen interest in **Data Scien
 ## 🚀 About Me
 - 🌱 **Learning:** Data Science, Machine Learning, and Generative AI.
 - 💡 **Interests:** Exploring AI models, analyzing data, and building innovative solutions.
-- 📚 **Focus Areas:** Machine Learning, Data Analysis, Exploratory Data Analysis (EDA), foundational statistics for AI.  
-  ![Statistics](https://img.shields.io/badge/-Statistics-4A90E2?logo=data&logoColor=white)
+- 📚 **Focus Areas:** Machine Learning, Data Analysis, Exploratory Data Analysis (EDA), foundational statistics for AI.
 - 🔭 **Currently Working On:** Improving my skills in data science and deploying AI-powered applications.
 - ✨ **Strengths:** I am very good at **Exploratory Data Analysis (EDA)**, **Data Analysis**, and **Machine Learning**.
 
