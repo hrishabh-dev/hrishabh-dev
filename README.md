@@ -1,11 +1,52 @@
-- 👋 Hi, I’m @hrishabh-dev
-- 👀 I’m interested in ...in data science 
-- 🌱 I’m currently learning ...coding and datascience with generative ai 
-- 💞️ I’m looking to collaborate on ...projects related to data science and let me know if u have other ideas 
-- 📫 How to reach me ..email - hrishabh068@gmail.com
+# Hi there, I'm Hrishabh 👋
 
+Welcome to my GitHub profile! I'm a student with a keen interest in **Data Science**, **Machine Learning**, and **Generative AI**.
 
-<!---
-hrishabh-dev/hrishabh-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+- 🌱 **Learning:** Data Science, Machine Learning, and Generative AI.
+- 💡 **Interests:** Exploring AI models, analyzing data, and building innovative solutions.
+- 📚 **Focus Areas:** Machine Learning, Data Analysis, Exploratory Data Analysis (EDA), and foundational statistics for AI.
+- 🔭 **Currently Working On:** Improving my skills in data science and deploying AI-powered applications.
+- ✨ **Strengths:** I am very good at **Exploratory Data Analysis (EDA)**, **Data Analysis**, and **Machine Learning**.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** HTML, CSS, Python, SQL, MongoDB
+- **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Machine Learning:** scikit-learn, TensorFlow, PyTorch
+- **Generative AI:** Hugging Face Transformers, Stable Diffusion, GANs, VAEs
+- **Databases:** SQL, MongoDB
+- **Tools:** Google Colab, Jupyter Notebook, Git, VS Code
+
+---
+
+## 📈 GitHub Stats
+
+![Hrishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishabh-dev&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🧠 Projects & Learning Journey
+
+- 📊 **Data Science Projects:**
+  - **Stock Price Prediction:** Built a deep learning model to predict stock prices and deployed it using [Render](https://render.com).
+  - **Iris Flower Prediction:** Designed an ML model to classify iris flower species and deployed it using [Render](https://render.com).
+  - **Crop Prediction Model:** Created an ML model for predicting suitable crops and deployed it using [Render](https://render.com).
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [hrishabh@example.com](mailto:hrishabh@example.com)
+- **LinkedIn:** [Hrishabh Kumar](https://www.linkedin.com/in/hrishabh-kumar-6a17a6302/)
+
+---
+
+### 🌟 Fun Fact:
+I’m passionate about how data and AI can shape the future, and I’m always eager to learn and collaborate. Let’s connect and create something impactful together!
