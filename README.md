@@ -1,6 +1,6 @@
 # Hi there, I'm Hrishabh 👋
 
-Welcome to my GitHub profile! I'm a student with a keen interest in **Data Science**, **Machine Learning**, and **Generative AI**.
+Welcome to my GitHub profile! I'm **learning Data Science, Machine Learning, and Generative AI** with a keen interest in **exploring AI models, analyzing data, and building innovative solutions**.
 
 ---
 
