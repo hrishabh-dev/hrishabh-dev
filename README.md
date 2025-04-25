@@ -66,11 +66,14 @@ Welcome to my GitHub profile! I'm a student with a keen interest in **Data Scien
 
 - 📊 **Data Science Projects:**
   - **Stock Price Prediction:** Built a deep learning model to predict stock prices and deployed it using [Render](https://render.com).  
-    **Live Demo:** [Stock Price Prediction App](https://stockprediction-qott.onrender.com)
+    **Live Demo:** [Stock Price Prediction App](https://stockprediction-qott.onrender.com)  
+    **GitHub Repository:** [Stock Prediction](https://github.com/hrishabh-dev/stockpredtatasteel)
   - **Iris Flower Prediction:** Designed an ML model to classify iris flower species and deployed it using [Render](https://render.com).  
-    **Live Demo:** [Iris Flower Prediction App](https://flowerpred.onrender.com)
+    **Live Demo:** [Iris Flower Prediction App](https://flowerpred.onrender.com)  
+    **GitHub Repository:** [Iris Flower Prediction](https://github.com/hrishabh-dev/flowerpred)
   - **Crop Prediction Model:** Created an ML model for predicting suitable crops and deployed it using [Render](https://render.com).  
-    **Live Demo:** [Crop Prediction App](https://croppredictionapp.onrender.com)
+    **Live Demo:** [Crop Prediction App](https://croppredictionapp.onrender.com)  
+    **GitHub Repository:** [Crop Prediction](https://github.com/hrishabh-dev/croppredictionflaskapp)
 
 ---
 
