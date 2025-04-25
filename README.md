@@ -28,7 +28,8 @@ Welcome to my GitHub profile! I'm a student with a keen interest in **Data Scien
 
 ![Hrishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishabh-dev&show_icons=true&theme=radical)
 
-**Total Commits in 2024 and 2025:** _To be calculated_
+- **Total Contributions in 2024:** 91
+- **Total Contributions in 2025 (so far):** 112
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
