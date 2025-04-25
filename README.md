@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I'm a student with a keen interest in **Data Scien
 
 ![Hrishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishabh-dev&show_icons=true&theme=radical)
 
+**Total Commits in 2024 and 2025:** _To be calculated_
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -35,9 +37,12 @@ Welcome to my GitHub profile! I'm a student with a keen interest in **Data Scien
 ## 🧠 Projects & Learning Journey
 
 - 📊 **Data Science Projects:**
-  - **Stock Price Prediction:** Built a deep learning model to predict stock prices and deployed it using [Render](https://render.com).
-  - **Iris Flower Prediction:** Designed an ML model to classify iris flower species and deployed it using [Render](https://render.com).
-  - **Crop Prediction Model:** Created an ML model for predicting suitable crops and deployed it using [Render](https://render.com).
+  - **Stock Price Prediction:** Built a deep learning model to predict stock prices and deployed it using [Render](https://render.com).  
+    **Live Demo:** [Stock Price Prediction App](https://stockprediction-qott.onrender.com)
+  - **Iris Flower Prediction:** Designed an ML model to classify iris flower species and deployed it using [Render](https://render.com).  
+    **Live Demo:** [Iris Flower Prediction App](https://flowerpred.onrender.com)
+  - **Crop Prediction Model:** Created an ML model for predicting suitable crops and deployed it using [Render](https://render.com).  
+    **Live Demo:** [Crop Prediction App](https://croppredictionapp.onrender.com)
 
 ---
 
