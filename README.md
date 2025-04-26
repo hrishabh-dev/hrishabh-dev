@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm **learning Data Science, Machine Learning, and
 
 ## 📫 Get in Touch
 
-- **Email:** [hrishabh@example.com](mailto:hrishabh@example.com)
+- **Email:** [hrishabh@gmail.com](mailto:hrishabh@gmail.com)
 - **LinkedIn:** [Hrishabh Kumar](https://www.linkedin.com/in/hrishabh-kumar-6a17a6302/)
 
 ---
