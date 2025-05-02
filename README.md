@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm **learning Data Science, Machine Learning, and
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+- **Database:**
   ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
