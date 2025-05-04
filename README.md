@@ -49,7 +49,8 @@ Here’s a little about me:
 <p align="center">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="60" height="60"/>
   <img src="https://user-images.githubusercontent.com/71998950/236635431-9a8b93b7-7c6c-4c8e-8b4f-3c70e8b1c03b.png" alt="Stable Diffusion" width="60" height="60"/>
-  <img src="https://user-images.githubusercontent.com/71998950/236635396-53e95d79-1c86-4952-8f86-5b3ae8a8c6b0.png" alt="GANs" width="60" height="60"/>
+  <img src="![image](https://github.com/user-attachments/assets/05a5f3b6-98f9-4e77-8ff5-c681f5336de6)
+" alt="GANs" width="60" height="60"/>
 </p>
 
 ### **Tools**  
