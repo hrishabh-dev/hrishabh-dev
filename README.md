@@ -62,10 +62,10 @@ Here’s a little about me:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" height="60"/>
   
   <!-- MS Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="MS Excel" width="60" height="60"/>
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel.png" alt="MS Excel" width="60" height="60"/>
   
   <!-- MS Word -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Microsoft_Word_2013-2019_logo.svg" alt="MS Word" width="60" height="60"/>
+  <img src="https://img.icons8.com/fluency/48/microsoft-word.png" alt="MS Word" width="60" height="60"/>
   
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
