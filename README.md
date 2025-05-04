@@ -48,7 +48,7 @@ Here’s a little about me:
 ### **Generative AI**  
 <p align="center">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="60" height="60"/>
-  <img src="https://brandlogo.org/gemini-icon/4361/#google_vignette" alt="Google Gemini" width="60" height="60"/>
+  <img src="https://www.pinterest.com/pin/google-gemini-logo--1006413847965182581/" alt="Google Gemini" width="60" height="60"/>
   <img src="https://github.com/user-attachments/assets/05a5f3b6-98f9-4e77-8ff5-c681f5336de6" alt="GANs" width="60" height="60"/>
   <img src="https://deepai.org/static/img/favicon/favicon-32x32.png" alt="DeepAI" width="60" height="60"/>
 </p>
