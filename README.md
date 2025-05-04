@@ -69,7 +69,7 @@ Here’s a little about me:
   
   
   <!-- Flask API -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" alt="Flask" width="60" height="60"/>
   
   <!-- Google Colab -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="60" height="60"/>
