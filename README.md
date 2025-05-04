@@ -65,7 +65,7 @@ Here’s a little about me:
   <img src="https://img.icons8.com/fluency/48/microsoft-excel.png" alt="MS Excel" width="60" height="60"/>
   
   <!-- MS Word -->
-  <img src="https://images.app.goo.gl/arim6JjtmAew9K9D7" alt="MS Word" width="60" height="60"/>
+  <img src="https://www.vecteezy.com/png/27179344-microsoft-word-icon-logo-symbol" alt="MS Word" width="60" height="60"/>
   
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
