@@ -67,6 +67,9 @@ Here’s a little about me:
   <img src="https://github-readme-stats.vercel.app/api?username=hrishabh-dev&show_icons=true&theme=tokyonight&title_color=7A7ADB&icon_color=7A7ADB&text_color=D3D3D3&bg_color=130F40" alt="Hrishabh's GitHub stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh-dev&layout=compact&theme=tokyonight&title_color=7A7ADB&text_color=D3D3D3&bg_color=130F40" alt="Top Languages" width="45%"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hrishabh-dev&theme=highcontrast&border=F0F0F0&stroke=00C8FF&fire=FF5722&ring=FFC107&currStreakLabel=00C8FF&background=002B36" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
