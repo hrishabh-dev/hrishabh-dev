@@ -50,7 +50,8 @@ Here’s a little about me:
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/512px-Google_%22G%22_Logo.svg.png" alt="Gemini AI"  alt="Google Gemini" width="60" height="60"/>
   <img src="https://github.com/user-attachments/assets/05a5f3b6-98f9-4e77-8ff5-c681f5336de6" alt="GANs" width="60" height="60"/>
-  <img src="https://deepai.org/static/img/favicon/favicon-32x32.png" alt="DeepAI"  alt="DeepAI" width="60" height="60"/>
+  <!-- Bolt AI -->
+  <img src="https://www.vectorlogo.zone/logos/thunder/thunder-icon.svg" alt="Bolt AI" width="60" height="60"/>
 </p>
 
 ### **Tools**  
