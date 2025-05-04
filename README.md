@@ -64,8 +64,8 @@ Here’s a little about me:
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrishabh-dev&show_icons=true&theme=radical" alt="Hrishabh's GitHub stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh-dev&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hrishabh-dev&show_icons=true&theme=tokyonight&title_color=7A7ADB&icon_color=7A7ADB&text_color=D3D3D3&bg_color=130F40" alt="Hrishabh's GitHub stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh-dev&layout=compact&theme=tokyonight&title_color=7A7ADB&text_color=D3D3D3&bg_color=130F40" alt="Top Languages" width="45%"/>
 </p>
 
 ---
