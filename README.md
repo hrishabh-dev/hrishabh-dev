@@ -47,9 +47,9 @@ Here’s a little about me:
 
 ### **Generative AI**  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stable-diffusion/stable-diffusion-original.svg" alt="Stable Diffusion" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gan/gan-original.svg" alt="GANs" width="60" height="60"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/CompVis/stable-diffusion/main/assets/stable-diffusion-logo.png" alt="Stable Diffusion" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Generative_adversarial_networks_logo.png" alt="GANs" width="60" height="60"/>
 </p>
 
 ### **Tools**  
