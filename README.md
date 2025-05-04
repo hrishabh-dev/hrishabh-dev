@@ -60,22 +60,22 @@ Here’s a little about me:
 ### **📊 Data Science Projects**  
 
 #### 🟢 Stock Price Prediction  
-![Stock Price Animation](https://media.giphy.com/media/3o6Mba7hl5Lr3GxgU0/giphy.gif)  
+![Stock Price Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBraHgyMDRobmNyaHp1OXB6bjl0Z3EzYm84dmlrOXowdmo0N3U0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LFRMkyeb7lmXux5D9R/giphy.gif)  
 - Built a deep learning model to predict stock prices and deployed it using [Render](https://render.com).  
   **Live Demo:** [Stock Price Prediction App](https://stockprediction-qott.onrender.com)  
   **GitHub Repository:** [Stock Prediction](https://github.com/hrishabh-dev/stockpredtatasteel)  
 
 #### 🟢 Iris Flower Prediction  
-![Iris Flower Animation](https://media.giphy.com/media/l3V0lsGtTMSB5YNgc/giphy.gif)  
+![Iris Flower Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhkbnZ5YXR1bGN6MXJhZWI5Njg4NnVkemNhOTNqejk0c3FpYmoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lHK8gIz2x5jtYAaKyz/giphy.gif)  
 - Designed an ML model to classify iris flower species and deployed it using [Render](https://render.com).  
   **Live Demo:** [Iris Flower Prediction App](https://flowerpred.onrender.com)  
   **GitHub Repository:** [Iris Flower Prediction](https://github.com/hrishabh-dev/flowerpred)  
 
 #### 🟢 Crop Prediction Model  
-![Wheat Crop Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
+![Wheat Crop Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZnNzRqazY2cHg1YWljb3g4OXZpbjltcDRidDB5ZXp6bXNuY2tlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ulY8SV8twL1jMaBAiC/giphy.gif)  
 - Created an ML model for predicting suitable crops and deployed it using [Render](https://render.com).  
   **Live Demo:** [Crop Prediction App](https://croppredictionapp.onrender.com)  
-  **GitHub Repository:** [Crop Prediction](https://github.com/hrishabh-dev/croppredictionflaskapp)  
+  **GitHub Repository:** [Crop Prediction](https://github.com/hrishabh-dev/croppredictionflaskapp)    
 
 ---
 
