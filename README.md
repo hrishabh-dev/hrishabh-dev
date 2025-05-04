@@ -75,6 +75,7 @@ Here’s a little about me:
   
   <!-- Google Colab -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Google Firebase" width="60" height="60"/>
 </p> 
 
 ---
