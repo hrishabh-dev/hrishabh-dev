@@ -67,8 +67,6 @@ Here’s a little about me:
   <!-- MS Word -->
   <img src="https://img.icons8.com/?size=100&id=13674&format=png&color=000000" alt="MS Word" width="60" height="60"/>
   
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
   
   <!-- Flask API -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask API" width="60" height="60"/>
