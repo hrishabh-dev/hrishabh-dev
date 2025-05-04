@@ -48,7 +48,7 @@ Here’s a little about me:
   **GitHub Repository:** [Stock Prediction](https://github.com/hrishabh-dev/stockpredtatasteel)  
 
 #### 🟢 Iris Flower Prediction  
-![Iris Flower Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV4b3k5YmM0czlkZmQ0b3A5MWZsdmRhZXU0Y28wMGtsdmd1dnVhMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eoAuF3XZe84riCbE5O/giphy.gif)  
+![Iris Flower Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhkbnZ5YXR1bGN6MXJhZWI5Njg4NnVkemNhOTNqejk0c3FpYmoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lHK8gIz2x5jtYAaKyz/giphy.gif)  
 - Designed an ML model to classify iris flower species and deployed it using [Render](https://render.com).  
   **Live Demo:** [Iris Flower Prediction App](https://flowerpred.onrender.com)  
   **GitHub Repository:** [Iris Flower Prediction](https://github.com/hrishabh-dev/flowerpred)  
