@@ -62,7 +62,7 @@ Here’s a little about me:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" height="60"/>
   
   <!-- MS Excel -->
-  <img src="https://icons8.com/icon/UECmBSgBOvPT/microsoft-excel-2019" alt="MS Excel" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="MS Excel" width="60" height="60"/>
   
   <!-- MS Word -->
   <img src="https://img.icons8.com/?size=100&id=13674&format=png&color=000000" alt="MS Word" width="60" height="60"/>
