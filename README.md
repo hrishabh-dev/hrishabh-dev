@@ -36,6 +36,8 @@ Here’s a little about me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="60" height="60"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/>
+  <img src="https://github.com/user-attachments/assets/3b1d6455-8967-405a-8588-57506a333841" alt="Data Science Tool" width="60" height="60"/>
+
 </p>
 
 ### **Machine Learning**  
