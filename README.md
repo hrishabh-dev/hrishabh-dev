@@ -48,8 +48,9 @@ Here’s a little about me:
 ### **Generative AI**  
 <p align="center">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/dd986f96-dfb7-4c0d-b33b-90f48a7aaa81" alt="Stable Diffusion" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Gemini" width="60" height="60"/>
   <img src="https://github.com/user-attachments/assets/05a5f3b6-98f9-4e77-8ff5-c681f5336de6" alt="GANs" width="60" height="60"/>
+  <img src="https://deepai.org/static/img/favicon/favicon-32x32.png" alt="DeepAI" width="60" height="60"/>
 </p>
 
 ### **Tools**  
