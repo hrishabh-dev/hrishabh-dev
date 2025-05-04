@@ -54,7 +54,7 @@ Here’s a little about me:
   **GitHub Repository:** [Iris Flower Prediction](https://github.com/hrishabh-dev/flowerpred)  
 
 #### 🟢 Crop Prediction Model  
-![Wheat Crop Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZnNzRqazY2cHg1YWljb3g4OXZpbjltcDRidDB5ZXp6bXNuY2tlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ulY8SV8twL1jMaBAiC/giphy.gif)  
+![Wheat Crop Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxaDdmamZodXFkajhjeXpobHRkN2tncm1jYW92ZDFuNXlvaGJxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qF27eplAvQLUA/giphy.gif)  
 - Created an ML model for predicting suitable crops and deployed it using [Render](https://render.com).  
   **Live Demo:** [Crop Prediction App](https://croppredictionapp.onrender.com)  
   **GitHub Repository:** [Crop Prediction](https://github.com/hrishabh-dev/croppredictionflaskapp)    
