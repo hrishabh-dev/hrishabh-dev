@@ -111,7 +111,7 @@ Here’s a little about me:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh-dev&layout=compact&theme=highcontrast&title_color=00CED1&text_color=F5F5F5&bg_color=001F3F" alt="Top Languages" width="45%"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hrishabh-dev&theme=highcontrast&border=F0F0F0&stroke=00C8FF&fire=FF5722&ring=FFC107&currStreakLabel=00C8FF&background=002B36" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=hrishabh-dev" alt="GitHub Streak Stats"/>
 </p>
 
 ---
