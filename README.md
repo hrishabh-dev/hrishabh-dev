@@ -100,7 +100,14 @@ Here’s a little about me:
 ![Wheat Crop Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxaDdmamZodXFkajhjeXpobHRkN2tncm1jYW92ZDFuNXlvaGJxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qF27eplAvQLUA/giphy.gif)  
 - Created an ML model for predicting suitable crops and deployed it using [Render](https://render.com).  
   **Live Demo:** [Crop Prediction App](https://croppredictionapp.onrender.com)  
-  **GitHub Repository:** [Crop Prediction](https://github.com/hrishabh-dev/croppredictionflaskapp)    
+  **GitHub Repository:** [Crop Prediction](https://github.com/hrishabh-dev/croppredictionflaskapp)
+
+#### 🟢 Python AI (NEW)
+![Python AI Animation](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+- A playground for AI experiments and demos using Streamlit.
+  **Live Demo:** [Open in Streamlit](https://pythonai-hqqzixxext5mckemtt6ydo.streamlit.app/)
+  **GitHub Repository:** [Python AI](https://github.com/hrishabh-dev/python_ai)
+
 
 ---
 
