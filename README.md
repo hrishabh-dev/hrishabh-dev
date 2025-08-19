@@ -108,6 +108,18 @@ Here’s a little about me:
   **Live Demo:** [Open in Streamlit](https://pythonai-hqqzixxext5mckemtt6ydo.streamlit.app/)
   **GitHub Repository:** [Python AI](https://github.com/hrishabh-dev/python_ai)
 
+#### 🏭 Machine Failure Prediction
+
+Predict machine failure using a robust machine learning pipeline, delivered via a modern FastAPI web app. This project leverages advanced classification models and user-friendly UI to empower industrial maintenance.
+
+- **Model:** CatBoost classifier with SMOTE oversampling, trained on real industrial sensor data.
+- **Web App:** Fast, interactive FastAPI frontend with a beautiful, responsive interface.
+- **Live Prediction:** Input machine parameters and instantly receive machine failure risk assessment.
+- **Tested API:** Includes pytest-based tests for both homepage loading and prediction results.
+- **Modern UX:** Vibrant, modern CSS and clear result messaging for intuitive usability.
+
+[View on GitHub](https://github.com/hrishabh-dev/machine_failure_pred) 
+
 
 ---
 
